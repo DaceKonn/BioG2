@@ -1,2 +1,2 @@
 # BioG2
-Application forgenerating Biomorphs
+Application for generating Biomorphs
